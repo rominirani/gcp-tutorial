@@ -14,7 +14,7 @@ The official RSS feed is here: https://cloud.google.com/feeds/gcp-release-notes.
 
 Click on the button below to open up the application in Google Cloud Shell in your Google Account and Google Cloud project of choice. Once Cloud Shell opens up, follow the steps in the **Getting Started** section.
 
-[![Open in Cloud Shell](https://gstatic.com/cloudssh/images/open-btn.svg)](https://shell.cloud.google.com/cloudshell/editor?cloudshell_git_repo=https%3A%2F%2Fgithub.com%2Fusername%2Freponame)
+[![Open in Cloud Shell](https://gstatic.com/cloudssh/images/open-btn.svg)](https://shell.cloud.google.com/cloudshell/editor?cloudshell_git_repo=https%3A%2F%2Fgithub.com%2Frominirani%2Fgcp-tutorial)
 
 ## Getting Started
 
