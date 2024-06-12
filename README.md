@@ -1,4 +1,4 @@
-# Demo of how to setup Open in Cloud Shell and Tutorial 
+# Demo of how to setup "Open in Cloud Shell" and "Console Tutorial" 
 
 ## About Sample application
 This Flask application fetches and displays the latest Google Cloud release notes from the official RSS feed.
