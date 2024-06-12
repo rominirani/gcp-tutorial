@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Google Cloud Release Notes</title>
+</head>
+<body>
+    <h1>Google Cloud Release Notes</h1>
+    <ul>
+        {% for entry in entries %}
+        <li>
+            <h2><a href="{{ entry.link }}">{{ entry.title }}</a></h2>
+            <p>{{ entry.summary | safe }}</p>
+        </li>
+        {% endfor %}
+    </ul>
+</body>
+</html>
