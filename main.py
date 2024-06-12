@@ -17,12 +17,8 @@ def index():
         # Find the content element with type="html"
         html_content = None
         for item in content:
-            print(item['type'])
             if item['type'] == 'text/html':
-                print("Found a HTML content")
                 html_content = item['value']
-                print('**********************')
-                print(html_content)
                 break
 
         if html_content:
