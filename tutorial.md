@@ -52,8 +52,6 @@ Provide the following command in Cloud Shell. Follow the instructions, go with t
 
 <walkthrough-conclusion-trophy></walkthrough-conclusion-trophy>
 
-Thanks for completing this tutorial. I hope you enjoyed the power of the Google Natural Language API.
-
 ### Next Steps:
 
  - Check out more information on [Open in Cloud Shell](https://cloud.google.com/shell/docs/open-in-cloud-shell) 
