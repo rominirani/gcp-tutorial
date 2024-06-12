@@ -20,7 +20,7 @@ Click on the button below to open up the application in Google Cloud Shell in yo
 
 1. **Install dependencies:**
    ```bash
-   pip install Flask feedparser
+   pip install -r requirements.txt
 
 2. **Run the application**
    ```bash
