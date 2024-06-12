@@ -5,7 +5,7 @@ This Flask application fetches and displays the latest Google Cloud release note
 
 The official RSS feed is here: https://cloud.google.com/feeds/gcp-release-notes.xml 
 
-## Features
+### Features
 
 * **Fetches release notes:** Retrieves the latest release notes from the Google Cloud RSS feed.
 * **Parses RSS feed:** Extracts relevant information like title, link, published date, and summary from each release note entry.
