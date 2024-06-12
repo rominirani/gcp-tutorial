@@ -48,9 +48,11 @@ Provide the following command in Cloud Shell. Follow the instructions, go with t
    gcloud run deploy --source .
 ```
 
-## Conclusion
+## Congratulations
 
 <walkthrough-conclusion-trophy></walkthrough-conclusion-trophy>
+
+You've completed the tutorial. 
 
 ### Next Steps:
 
