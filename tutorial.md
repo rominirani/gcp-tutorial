@@ -50,7 +50,7 @@ Provide the following command in Cloud Shell. Follow the instructions, go with t
 
 ## Conclusion
 
-`walkthrough conclusion-trophy`
+<walkthrough-conclusion-trophy></walkthrough-conclusion-trophy>
 
 Thanks for completing this tutorial. I hope you enjoyed the power of the Google Natural Language API.
 
