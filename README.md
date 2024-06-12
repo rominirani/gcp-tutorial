@@ -20,7 +20,7 @@ Click on the button below to open up the application in Google Cloud Shell in yo
 
 1. **Install dependencies:**
    ```bash
-   pip install -r requirements.txt
+   pip3 install -r requirements.txt
 
 2. **Run the application**
    ```bash
@@ -28,11 +28,11 @@ Click on the button below to open up the application in Google Cloud Shell in yo
 
 3. **Access the application**
 
-   Visit http://localhost:8080/ in the browser
+   Use the Cloud Shell Web Preview and visit http://localhost:8080/ in the browser
 
 4. **Deploy on Cloud Run**
 
-   Provide the following command in Cloud Shell. Follow the instructions, go with the defaults, select the appropriate Google Cloud Region and say `Y` to unauthenticated invocations of the service
+   Provide the following command in Cloud Shell. Follow the instructions, go with the defaults, select the appropriate Google Cloud Region and say `Y` to unauthenticated invocations of the service.
 
    ```bash
    gcloud run deploy --source .
