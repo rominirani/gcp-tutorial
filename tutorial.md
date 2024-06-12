@@ -38,7 +38,7 @@ Use the Cloud Shell Web Preview and visit http://localhost:8080/ in the browser
 
 Let us go through the Python file to understand the source code. 
 
-Click here: `walkthrough editor-open-file "gcp-tutorial/main.py" "Open main.py"`
+Click here: <walkthrough-editor-open-file filePath="gcp-tutorial/main.py">Open main.py</walkthrough-editor-open-file>
 
 ## (Optional) Source Deploy to Cloud Run
 
